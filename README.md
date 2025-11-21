@@ -114,7 +114,7 @@ Example:
 </config>
 ```
 
-There are 9 frontend models for system config:
+There are 10 frontend models for system config:
 
  -  SR\Codemirror\Block\Adminhtml\System\Config\Form\Field\\**Css**
  -  SR\Codemirror\Block\Adminhtml\System\Config\Form\Field\\**Less**
@@ -125,3 +125,4 @@ There are 9 frontend models for system config:
  -  SR\Codemirror\Block\Adminhtml\System\Config\Form\Field\\**Json**
  -  SR\Codemirror\Block\Adminhtml\System\Config\Form\Field\\**Yaml**
  -  SR\Codemirror\Block\Adminhtml\System\Config\Form\Field\\**Yamlfrontmatter**
+ -  SR\Codemirror\Block\Adminhtml\System\Config\Form\Field\\**Markdown**
